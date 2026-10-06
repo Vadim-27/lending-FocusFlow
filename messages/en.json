@@ -1,0 +1,259 @@
+{
+  "Meta": {
+    "title": "FocusFlow — Deep focus, made effortless",
+    "description": "FocusFlow is the mobile app that helps you block distractions, build focus habits and finish what matters. Start free today.",
+    "ogTitle": "FocusFlow — Deep focus, made effortless",
+    "ogAlt": "FocusFlow mobile app preview"
+  },
+  "Common": {
+    "skipToContent": "Skip to content",
+    "logoLabel": "FocusFlow home"
+  },
+  "Nav": {
+    "features": "Features",
+    "howItWorks": "How it works",
+    "about": "About",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "openMenu": "Open menu",
+    "menuTitle": "Menu",
+    "menuDescription": "Site navigation",
+    "mainLabel": "Main navigation"
+  },
+  "Theme": {
+    "toggle": "Toggle theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "Language": {
+    "label": "Change language",
+    "en": "English",
+    "uk": "Українська"
+  },
+  "Hero": {
+    "badge": "New · Focus Rooms are here",
+    "titleStart": "Find your flow.",
+    "titleHighlight": "Finish what matters.",
+    "subtitle": "FocusFlow silences the noise, plans your deep-work sessions and turns focus into a daily habit — so you get more done in less time.",
+    "primaryCta": "Get Started — it's free",
+    "secondaryCta": "See how it works",
+    "rating": "4.9 rating · 12k+ reviews",
+    "stats": {
+      "users": { "value": "250k+", "label": "Active users" },
+      "hours": { "value": "3.2M", "label": "Focus hours logged" },
+      "boost": { "value": "+42%", "label": "Avg. productivity gain" }
+    },
+    "mockup": {
+      "greeting": "Deep work",
+      "session": "Focus session",
+      "remaining": "min left",
+      "streak": "7-day streak",
+      "blocked": "23 distractions blocked",
+      "today": "Today's focus",
+      "hoursValue": "4h 20m"
+    }
+  },
+  "Features": {
+    "eyebrow": "Features",
+    "title": "Everything you need to stay in the zone",
+    "subtitle": "Powerful tools wrapped in a calm interface. No clutter, no guilt — just focus.",
+    "items": {
+      "timer": {
+        "title": "Smart focus timer",
+        "description": "Adaptive Pomodoro-style sessions that learn your rhythm and suggest the ideal length for each task."
+      },
+      "blocker": {
+        "title": "Distraction blocker",
+        "description": "Silence noisy apps, notifications and sites during a session with a single tap."
+      },
+      "planner": {
+        "title": "Daily planner",
+        "description": "Drag tasks into time blocks and let FocusFlow protect your calendar from overload."
+      },
+      "insights": {
+        "title": "Insights & streaks",
+        "description": "Beautiful reports reveal when you focus best and keep you motivated with streaks."
+      },
+      "sounds": {
+        "title": "Focus soundscapes",
+        "description": "Rain, lo-fi, white noise and more — curated ambient audio that helps your brain lock in."
+      },
+      "sync": {
+        "title": "Sync everywhere",
+        "description": "Your sessions, goals and stats stay in sync across iOS, Android and the web."
+      }
+    }
+  },
+  "How": {
+    "eyebrow": "How it works",
+    "title": "From scattered to focused in three steps",
+    "subtitle": "Set it up once and let FocusFlow guide your day.",
+    "stepLabel": "Step",
+    "steps": {
+      "one": {
+        "title": "Set your goal",
+        "description": "Pick a task, choose a session length and tell FocusFlow what a great day looks like."
+      },
+      "two": {
+        "title": "Enter focus mode",
+        "description": "Tap start. Distractions are blocked, the timer runs and the soundscape sets the mood."
+      },
+      "three": {
+        "title": "Review & improve",
+        "description": "See your progress, celebrate streaks and get smart tips to focus even better tomorrow."
+      }
+    }
+  },
+  "About": {
+    "eyebrow": "About us",
+    "title": "Built by people who were tired of being distracted",
+    "paragraphOne": "FocusFlow started in 2023 as a small side project between two friends — a designer and an engineer — who kept losing their afternoons to notifications.",
+    "paragraphTwo": "Today a remote team of 24 builds a calmer way to work: tools that respect your attention, your time and your privacy.",
+    "values": {
+      "calm": {
+        "title": "Calm by design",
+        "description": "Every pixel is there for a reason. Less noise, more clarity."
+      },
+      "privacy": {
+        "title": "Privacy first",
+        "description": "Your focus data stays yours. We never sell it — ever."
+      },
+      "science": {
+        "title": "Backed by science",
+        "description": "Our methods are built on research in attention and deep work."
+      }
+    },
+    "stats": {
+      "founded": { "value": "2023", "label": "Founded" },
+      "team": { "value": "24", "label": "Team members" },
+      "countries": { "value": "90+", "label": "Countries" }
+    }
+  },
+  "Pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple pricing that grows with you",
+    "subtitle": "Start free. Upgrade when you're ready. Cancel anytime.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save 20%",
+    "perMonth": "/ month",
+    "billedYearly": "Billed {total} per year",
+    "popular": "Most popular",
+    "billingToggle": "Switch to yearly billing",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "description": "For getting started with better focus.",
+        "cta": "Start for free",
+        "features": [
+          "Smart focus timer",
+          "3 blocked apps",
+          "7-day history",
+          "1 device"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "For professionals who need deep focus daily.",
+        "cta": "Get Pro",
+        "features": [
+          "Everything in Free",
+          "Unlimited app blocking",
+          "Daily planner & calendar sync",
+          "Insights & streaks",
+          "All focus soundscapes",
+          "Unlimited devices"
+        ]
+      },
+      "team": {
+        "name": "Team",
+        "description": "For teams that ship together.",
+        "cta": "Contact sales",
+        "features": [
+          "Everything in Pro",
+          "Shared Focus Rooms",
+          "Team analytics",
+          "Admin controls & SSO",
+          "Priority support"
+        ]
+      }
+    }
+  },
+  "Testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "Loved by focused people everywhere",
+    "subtitle": "Real stories from people who got their time back.",
+    "previous": "Previous testimonial",
+    "next": "Next testimonial",
+    "items": {
+      "anna": {
+        "quote": "I finally finish my most important task before lunch. FocusFlow changed how I structure my entire day.",
+        "name": "Anna Kovalenko",
+        "role": "Product Designer"
+      },
+      "marcus": {
+        "quote": "The distraction blocker alone is worth it. My team's deep-work time went up by a third in a month.",
+        "name": "Marcus Lindgren",
+        "role": "Engineering Manager"
+      },
+      "sofia": {
+        "quote": "Clean, calm and genuinely motivating. The streaks keep me honest without making me feel guilty.",
+        "name": "Sofia Martins",
+        "role": "Freelance Writer"
+      }
+    }
+  },
+  "Faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions",
+    "items": {
+      "free": {
+        "question": "Is FocusFlow really free to start?",
+        "answer": "Yes. The Free plan includes the smart focus timer and basic blocking forever. Upgrade only if you need more."
+      },
+      "platforms": {
+        "question": "Which platforms are supported?",
+        "answer": "FocusFlow works on iOS and Android, with a companion web dashboard for your stats and planner."
+      },
+      "data": {
+        "question": "What happens to my data?",
+        "answer": "Your focus data is encrypted and never sold. You can export or delete it at any time from settings."
+      },
+      "cancel": {
+        "question": "Can I cancel anytime?",
+        "answer": "Absolutely. Cancel in two taps from the app — you keep Pro until the end of your billing period."
+      },
+      "teams": {
+        "question": "Do you offer discounts for teams or students?",
+        "answer": "Yes. Students get 50% off Pro, and Team plans include volume pricing. Reach out and we'll help."
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Contact",
+    "title": "Ready to find your flow?",
+    "subtitle": "Join 250,000+ people focusing better with FocusFlow. Got a question? We usually reply within a day.",
+    "primaryCta": "Get Started",
+    "emailLabel": "Email us",
+    "email": "hello@focusflow.app"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to home"
+  },
+  "Footer": {
+    "tagline": "Deep focus, made effortless. The app for people who want to get more done with less stress.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "followUs": "Follow us",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with care for focused minds."
+  }
+}
